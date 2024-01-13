@@ -1,0 +1,17 @@
+body{
+    background: cyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14,5px;
+}
+
+header{
+    background: lightgreen;
+    border: 7px solid black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+footer{
+    border: 3px solid black;
+    background: chartreuse;
+    margin: 20px;
+}
